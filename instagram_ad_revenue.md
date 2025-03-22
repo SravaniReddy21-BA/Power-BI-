@@ -8,6 +8,8 @@ This dashboard provides a high-level summary of Instagram advertising performanc
 
 ### 💡 **Dashboard Metrics Explained**
 
+![Image](https://github.com/user-attachments/assets/52dc6409-7432-491f-8aac-c54ce9b55eca)
+
 1. **💰 Sum of Revenue ($): 25M**  
    - This represents the total revenue generated from Instagram ad campaigns. It captures the total earnings attributed to conversions that originated through Instagram ads.
 
